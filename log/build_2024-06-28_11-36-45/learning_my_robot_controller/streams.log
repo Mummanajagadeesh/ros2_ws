@@ -1,0 +1,24 @@
+[3.214s] Invoking command in '/home/jagadeesh97/ros2_ws/src/learning_my_robot_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jagadeesh97/ros2_ws/build/learning_my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagadeesh97/ros2_ws/install/learning_my_robot_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/learning_my_robot_controller build --build-base /home/jagadeesh97/ros2_ws/build/learning_my_robot_controller/build install --record /home/jagadeesh97/ros2_ws/build/learning_my_robot_controller/install.log --single-version-externally-managed install_data
+[3.833s] running egg_info
+[3.875s] writing ../../build/learning_my_robot_controller/learning_my_robot_controller.egg-info/PKG-INFO
+[3.876s] writing dependency_links to ../../build/learning_my_robot_controller/learning_my_robot_controller.egg-info/dependency_links.txt
+[3.876s] writing entry points to ../../build/learning_my_robot_controller/learning_my_robot_controller.egg-info/entry_points.txt
+[3.876s] writing requirements to ../../build/learning_my_robot_controller/learning_my_robot_controller.egg-info/requires.txt
+[3.877s] writing top-level names to ../../build/learning_my_robot_controller/learning_my_robot_controller.egg-info/top_level.txt
+[3.962s] reading manifest file '../../build/learning_my_robot_controller/learning_my_robot_controller.egg-info/SOURCES.txt'
+[3.963s] writing manifest file '../../build/learning_my_robot_controller/learning_my_robot_controller.egg-info/SOURCES.txt'
+[3.964s] running build
+[3.964s] running build_py
+[3.964s] copying learning_my_robot_controller/my_first_node.py -> /home/jagadeesh97/ros2_ws/build/learning_my_robot_controller/build/lib/learning_my_robot_controller
+[3.965s] running install
+[3.977s] running install_lib
+[4.018s] copying /home/jagadeesh97/ros2_ws/build/learning_my_robot_controller/build/lib/learning_my_robot_controller/my_first_node.py -> /home/jagadeesh97/ros2_ws/install/learning_my_robot_controller/lib/python3.12/site-packages/learning_my_robot_controller
+[4.020s] byte-compiling /home/jagadeesh97/ros2_ws/install/learning_my_robot_controller/lib/python3.12/site-packages/learning_my_robot_controller/my_first_node.py to my_first_node.cpython-312.pyc
+[4.020s] running install_data
+[4.021s] running install_egg_info
+[4.060s] removing '/home/jagadeesh97/ros2_ws/install/learning_my_robot_controller/lib/python3.12/site-packages/learning_my_robot_controller-0.0.0-py3.12.egg-info' (and everything under it)
+[4.060s] Copying ../../build/learning_my_robot_controller/learning_my_robot_controller.egg-info to /home/jagadeesh97/ros2_ws/install/learning_my_robot_controller/lib/python3.12/site-packages/learning_my_robot_controller-0.0.0-py3.12.egg-info
+[4.062s] running install_scripts
+[4.271s] Installing test_node script to /home/jagadeesh97/ros2_ws/install/learning_my_robot_controller/lib/learning_my_robot_controller
+[4.272s] writing list of installed files to '/home/jagadeesh97/ros2_ws/build/learning_my_robot_controller/install.log'
+[4.332s] Invoked command in '/home/jagadeesh97/ros2_ws/src/learning_my_robot_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jagadeesh97/ros2_ws/build/learning_my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagadeesh97/ros2_ws/install/learning_my_robot_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/learning_my_robot_controller build --build-base /home/jagadeesh97/ros2_ws/build/learning_my_robot_controller/build install --record /home/jagadeesh97/ros2_ws/build/learning_my_robot_controller/install.log --single-version-externally-managed install_data

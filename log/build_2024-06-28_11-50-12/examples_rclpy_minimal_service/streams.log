@@ -1,0 +1,33 @@
+[2.014s] Invoking command in '/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_service': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_service/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_service/build --no-deps symlink_data --force
+[2.384s] running develop
+[2.384s] /usr/lib/python3/dist-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[2.384s] !!
+[2.384s] 
+[2.385s]         ********************************************************************************
+[2.385s]         Please avoid running ``setup.py`` and ``easy_install``.
+[2.385s]         Instead, use pypa/build, pypa/installer or other
+[2.385s]         standards-based tools.
+[2.385s] 
+[2.385s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[2.385s]         ********************************************************************************
+[2.385s] 
+[2.385s] !!
+[2.385s]   easy_install.initialize_options(self)
+[2.511s] running egg_info
+[2.524s] writing examples_rclpy_minimal_service.egg-info/PKG-INFO
+[2.525s] writing dependency_links to examples_rclpy_minimal_service.egg-info/dependency_links.txt
+[2.525s] writing entry points to examples_rclpy_minimal_service.egg-info/entry_points.txt
+[2.525s] writing requirements to examples_rclpy_minimal_service.egg-info/requires.txt
+[2.526s] writing top-level names to examples_rclpy_minimal_service.egg-info/top_level.txt
+[2.547s] reading manifest file 'examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[2.548s] writing manifest file 'examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[2.560s] running build_ext
+[2.560s] Creating /home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.12/site-packages/examples-rclpy-minimal-service.egg-link (link to .)
+[2.560s] Installing service script to /home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[2.560s] Installing service_member_function script to /home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[2.561s] 
+[2.561s] Installed /home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_service
+[2.561s] running symlink_data
+[2.561s] symbolically linking /home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_service/resource/examples_rclpy_minimal_service -> /home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_service/share/ament_index/resource_index/packages
+[2.561s] symbolically linking /home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_service/package.xml -> /home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_service/share/examples_rclpy_minimal_service
+[2.593s] Invoked command in '/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_service' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_service/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_service/build --no-deps symlink_data --force

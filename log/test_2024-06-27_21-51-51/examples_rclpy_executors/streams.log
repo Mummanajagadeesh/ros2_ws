@@ -1,0 +1,17 @@
+[0.270s] Invoking command in '/home/jagadeesh97/ros2_ws/src/examples/rclpy/executors': AMENT_PREFIX_PATH=/home/jagadeesh97/ros2_ws/install/examples_rclpy_executors:${AMENT_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTEST_ADDOPTS=--tb=short --junit-xml=/home/jagadeesh97/ros2_ws/build/examples_rclpy_executors/pytest.xml --junit-prefix=examples_rclpy_executors -o cache_dir=/home/jagadeesh97/ros2_ws/build/examples_rclpy_executors/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/jagadeesh97/ros2_ws/build/examples_rclpy_executors:/home/jagadeesh97/ros2_ws/install/examples_rclpy_executors/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest
+[0.620s] [1m============================= test session starts ==============================[0m
+[0.620s] platform linux -- Python 3.12.3, pytest-7.4.4, pluggy-1.4.0
+[0.620s] cachedir: /home/jagadeesh97/ros2_ws/build/examples_rclpy_executors/.pytest_cache
+[0.621s] rootdir: /home/jagadeesh97/ros2_ws/src/examples/rclpy
+[0.621s] configfile: pytest.ini
+[0.621s] plugins: ament-pep257-0.17.0, ament-xmllint-0.17.0, ament-lint-0.17.0, launch-testing-3.4.2, ament-flake8-0.17.0, launch-testing-ros-0.26.5, ament-copyright-0.17.0, colcon-core-0.17.0, cov-4.1.0
+[0.684s] [1mcollecting ... [0m[1m
+[0.684s] collected 3 items                                                              [0m
+[0.685s] 
+[1.302s] test/test_copyright.py [32m.[0m[32m                                                 [ 33%][0m
+[1.637s] test/test_flake8.py [32m.[0m[32m                                                    [ 66%][0m
+[1.716s] test/test_pep257.py [32m.[0m[32m                                                    [100%][0m
+[1.719s] 
+[1.719s] - generated xml file: /home/jagadeesh97/ros2_ws/build/examples_rclpy_executors/pytest.xml -
+[1.719s] [32m============================== [32m[1m3 passed[0m[32m in 1.12s[0m[32m ===============================[0m
+[2.329s] Invoked command in '/home/jagadeesh97/ros2_ws/src/examples/rclpy/executors' returned '0': AMENT_PREFIX_PATH=/home/jagadeesh97/ros2_ws/install/examples_rclpy_executors:${AMENT_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTEST_ADDOPTS=--tb=short --junit-xml=/home/jagadeesh97/ros2_ws/build/examples_rclpy_executors/pytest.xml --junit-prefix=examples_rclpy_executors -o cache_dir=/home/jagadeesh97/ros2_ws/build/examples_rclpy_executors/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/jagadeesh97/ros2_ws/build/examples_rclpy_executors:/home/jagadeesh97/ros2_ws/install/examples_rclpy_executors/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest

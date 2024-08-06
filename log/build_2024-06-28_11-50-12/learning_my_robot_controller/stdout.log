@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing learning_my_robot_controller.egg-info/PKG-INFO
+writing dependency_links to learning_my_robot_controller.egg-info/dependency_links.txt
+writing entry points to learning_my_robot_controller.egg-info/entry_points.txt
+writing requirements to learning_my_robot_controller.egg-info/requires.txt
+writing top-level names to learning_my_robot_controller.egg-info/top_level.txt
+reading manifest file 'learning_my_robot_controller.egg-info/SOURCES.txt'
+writing manifest file 'learning_my_robot_controller.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jagadeesh97/ros2_ws/install/learning_my_robot_controller/lib/python3.12/site-packages/learning-my-robot-controller.egg-link (link to .)
+Installing test_node script to /home/jagadeesh97/ros2_ws/install/learning_my_robot_controller/lib/learning_my_robot_controller
+
+Installed /home/jagadeesh97/ros2_ws/build/learning_my_robot_controller
+running symlink_data
+symbolically linking /home/jagadeesh97/ros2_ws/build/learning_my_robot_controller/resource/learning_my_robot_controller -> /home/jagadeesh97/ros2_ws/install/learning_my_robot_controller/share/ament_index/resource_index/packages
+symbolically linking /home/jagadeesh97/ros2_ws/build/learning_my_robot_controller/package.xml -> /home/jagadeesh97/ros2_ws/install/learning_my_robot_controller/share/learning_my_robot_controller

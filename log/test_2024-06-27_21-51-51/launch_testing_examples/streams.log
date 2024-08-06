@@ -1,0 +1,27 @@
+[0.474s] Invoking command in '/home/jagadeesh97/ros2_ws/src/examples/launch_testing/launch_testing_examples': AMENT_PREFIX_PATH=/home/jagadeesh97/ros2_ws/install/launch_testing_examples:${AMENT_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTEST_ADDOPTS=--tb=short --junit-xml=/home/jagadeesh97/ros2_ws/build/launch_testing_examples/pytest.xml --junit-prefix=launch_testing_examples -o cache_dir=/home/jagadeesh97/ros2_ws/build/launch_testing_examples/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/jagadeesh97/ros2_ws/build/launch_testing_examples:/home/jagadeesh97/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest
+[0.747s] [1m============================= test session starts ==============================[0m
+[0.747s] platform linux -- Python 3.12.3, pytest-7.4.4, pluggy-1.4.0
+[0.750s] cachedir: /home/jagadeesh97/ros2_ws/build/launch_testing_examples/.pytest_cache
+[0.750s] rootdir: /home/jagadeesh97/ros2_ws/src/examples/launch_testing/launch_testing_examples
+[0.750s] plugins: ament-pep257-0.17.0, ament-xmllint-0.17.0, ament-lint-0.17.0, launch-testing-3.4.2, ament-flake8-0.17.0, launch-testing-ros-0.26.5, ament-copyright-0.17.0, colcon-core-0.17.0, cov-4.1.0
+[1.097s] [1mcollecting ... [0m[1m
+[1.097s] collected 9 items                                                              [0m
+[1.097s] 
+[2.329s] launch_testing_examples/check_msgs_launch_test.py [32m.[0m[32m                      [ 11%][0m
+[33.435s] launch_testing_examples/check_multiple_nodes_launch_test.py [32m.[0m[32m            [ 22%][0m
+[38.792s] launch_testing_examples/check_node_launch_test.py [32m.[0m[32m                      [ 33%][0m
+[38.802s] launch_testing_examples/hello_world_launch_test.py [32m.[0m[32m                     [ 44%][0m
+[42.041s] launch_testing_examples/record_rosbag_launch_test.py [32m.[0m[32m                   [ 55%][0m
+[42.431s] launch_testing_examples/set_param_launch_test.py [32m.[0m[32m                       [ 66%][0m
+[42.699s] test/test_copyright.py [32m.[0m[32m                                                 [ 77%][0m
+[42.865s] test/test_flake8.py [32m.[0m[33m                                                    [ 88%][0m
+[42.909s] test/test_pep257.py [32m.[0m[33m                                                    [100%][0m
+[42.909s] 
+[42.909s] [33m=============================== warnings summary ===============================[0m
+[42.909s] test/test_flake8.py: 16 warnings
+[42.909s]   Warning: This process (pid=38233) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[42.909s] 
+[42.909s] -- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+[42.909s] - generated xml file: /home/jagadeesh97/ros2_ws/build/launch_testing_examples/pytest.xml -
+[42.909s] [33m======================= [32m9 passed[0m, [33m[1m16 warnings[0m[33m in 42.16s[0m[33m ========================[0m
+[43.115s] Invoked command in '/home/jagadeesh97/ros2_ws/src/examples/launch_testing/launch_testing_examples' returned '0': AMENT_PREFIX_PATH=/home/jagadeesh97/ros2_ws/install/launch_testing_examples:${AMENT_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTEST_ADDOPTS=--tb=short --junit-xml=/home/jagadeesh97/ros2_ws/build/launch_testing_examples/pytest.xml --junit-prefix=launch_testing_examples -o cache_dir=/home/jagadeesh97/ros2_ws/build/launch_testing_examples/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/jagadeesh97/ros2_ws/build/launch_testing_examples:/home/jagadeesh97/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest

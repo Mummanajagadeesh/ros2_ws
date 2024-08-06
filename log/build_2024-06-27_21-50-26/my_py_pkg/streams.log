@@ -1,0 +1,35 @@
+[1.935s] Invoking command in '/home/jagadeesh97/ros2_ws/build/my_py_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jagadeesh97/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagadeesh97/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/jagadeesh97/ros2_ws/build/my_py_pkg/build --no-deps symlink_data
+[3.136s] running develop
+[3.136s] running egg_info
+[3.136s] creating my_py_pkg.egg-info
+[3.136s] writing my_py_pkg.egg-info/PKG-INFO
+[3.137s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[3.137s] writing requirements to my_py_pkg.egg-info/requires.txt
+[3.137s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[3.138s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[3.138s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[3.138s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[3.139s] running build_ext
+[3.139s] Creating /home/jagadeesh97/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my-py-pkg.egg-link (link to .)
+[3.139s] 
+[3.139s] Installed /home/jagadeesh97/ros2_ws/build/my_py_pkg
+[3.140s] running symlink_data
+[3.140s] creating /home/jagadeesh97/ros2_ws/install/my_py_pkg/share/ament_index
+[3.140s] creating /home/jagadeesh97/ros2_ws/install/my_py_pkg/share/ament_index/resource_index
+[3.140s] creating /home/jagadeesh97/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[3.141s] symbolically linking /home/jagadeesh97/ros2_ws/build/my_py_pkg/resource/my_py_pkg -> /home/jagadeesh97/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[3.141s] symbolically linking /home/jagadeesh97/ros2_ws/build/my_py_pkg/package.xml -> /home/jagadeesh97/ros2_ws/install/my_py_pkg/share/my_py_pkg
+[3.142s] /usr/lib/python3/dist-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[3.142s] !!
+[3.142s] 
+[3.142s]         ********************************************************************************
+[3.142s]         Please avoid running ``setup.py`` and ``easy_install``.
+[3.143s]         Instead, use pypa/build, pypa/installer or other
+[3.143s]         standards-based tools.
+[3.144s] 
+[3.144s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[3.144s]         ********************************************************************************
+[3.144s] 
+[3.144s] !!
+[3.144s]   easy_install.initialize_options(self)
+[3.164s] Invoked command in '/home/jagadeesh97/ros2_ws/build/my_py_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jagadeesh97/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagadeesh97/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/jagadeesh97/ros2_ws/build/my_py_pkg/build --no-deps symlink_data

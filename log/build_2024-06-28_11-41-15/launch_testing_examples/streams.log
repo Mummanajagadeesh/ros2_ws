@@ -1,0 +1,19 @@
+[2.487s] Invoking command in '/home/jagadeesh97/ros2_ws/src/examples/launch_testing/launch_testing_examples': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jagadeesh97/ros2_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagadeesh97/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/launch_testing_examples build --build-base /home/jagadeesh97/ros2_ws/build/launch_testing_examples/build install --record /home/jagadeesh97/ros2_ws/build/launch_testing_examples/install.log --single-version-externally-managed install_data
+[2.832s] running egg_info
+[2.854s] writing ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/PKG-INFO
+[2.856s] writing dependency_links to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/dependency_links.txt
+[2.856s] writing requirements to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/requires.txt
+[2.856s] writing top-level names to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/top_level.txt
+[2.937s] reading manifest file '../../../../build/launch_testing_examples/launch_testing_examples.egg-info/SOURCES.txt'
+[2.939s] writing manifest file '../../../../build/launch_testing_examples/launch_testing_examples.egg-info/SOURCES.txt'
+[2.942s] running build
+[2.942s] running build_py
+[2.942s] running install
+[2.951s] running install_lib
+[2.989s] running install_data
+[2.989s] running install_egg_info
+[3.028s] removing '/home/jagadeesh97/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples-0.19.4-py3.12.egg-info' (and everything under it)
+[3.028s] Copying ../../../../build/launch_testing_examples/launch_testing_examples.egg-info to /home/jagadeesh97/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch_testing_examples-0.19.4-py3.12.egg-info
+[3.030s] running install_scripts
+[3.266s] writing list of installed files to '/home/jagadeesh97/ros2_ws/build/launch_testing_examples/install.log'
+[3.320s] Invoked command in '/home/jagadeesh97/ros2_ws/src/examples/launch_testing/launch_testing_examples' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jagadeesh97/ros2_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagadeesh97/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/launch_testing_examples build --build-base /home/jagadeesh97/ros2_ws/build/launch_testing_examples/build install --record /home/jagadeesh97/ros2_ws/build/launch_testing_examples/install.log --single-version-externally-managed install_data

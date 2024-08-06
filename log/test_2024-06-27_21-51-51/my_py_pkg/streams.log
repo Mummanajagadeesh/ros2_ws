@@ -1,0 +1,16 @@
+[0.650s] Invoking command in '/home/jagadeesh97/ros2_ws/src/my_py_pkg': AMENT_PREFIX_PATH=/home/jagadeesh97/ros2_ws/install/my_py_pkg:${AMENT_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTEST_ADDOPTS=--tb=short --junit-xml=/home/jagadeesh97/ros2_ws/build/my_py_pkg/pytest.xml --junit-prefix=my_py_pkg -o cache_dir=/home/jagadeesh97/ros2_ws/build/my_py_pkg/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/jagadeesh97/ros2_ws/build/my_py_pkg:/home/jagadeesh97/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest
+[0.934s] [1m============================= test session starts ==============================[0m
+[0.934s] platform linux -- Python 3.12.3, pytest-7.4.4, pluggy-1.4.0
+[0.937s] cachedir: /home/jagadeesh97/ros2_ws/build/my_py_pkg/.pytest_cache
+[0.937s] rootdir: /home/jagadeesh97/ros2_ws/src/my_py_pkg
+[0.937s] plugins: ament-pep257-0.17.0, ament-xmllint-0.17.0, ament-lint-0.17.0, launch-testing-3.4.2, ament-flake8-0.17.0, launch-testing-ros-0.26.5, ament-copyright-0.17.0, colcon-core-0.17.0, cov-4.1.0
+[0.998s] [1mcollecting ... [0m[1m
+[0.998s] collected 3 items                                                              [0m
+[0.998s] 
+[1.003s] test/test_copyright.py [33ms[0m[32m                                                 [ 33%][0m
+[1.086s] test/test_flake8.py [32m.[0m[32m                                                    [ 66%][0m
+[1.098s] test/test_pep257.py [32m.[0m[32m                                                    [100%][0m
+[1.098s] 
+[1.098s] --- generated xml file: /home/jagadeesh97/ros2_ws/build/my_py_pkg/pytest.xml ---
+[1.098s] [32m========================= [32m[1m2 passed[0m, [33m1 skipped[0m[32m in 0.16s[0m[32m =========================[0m
+[1.166s] Invoked command in '/home/jagadeesh97/ros2_ws/src/my_py_pkg' returned '0': AMENT_PREFIX_PATH=/home/jagadeesh97/ros2_ws/install/my_py_pkg:${AMENT_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTEST_ADDOPTS=--tb=short --junit-xml=/home/jagadeesh97/ros2_ws/build/my_py_pkg/pytest.xml --junit-prefix=my_py_pkg -o cache_dir=/home/jagadeesh97/ros2_ws/build/my_py_pkg/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/jagadeesh97/ros2_ws/build/my_py_pkg:/home/jagadeesh97/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest

@@ -1,0 +1,35 @@
+[2.849s] Invoking command in '/home/jagadeesh97/ros2_ws/build/launch_testing_examples': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jagadeesh97/ros2_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagadeesh97/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/jagadeesh97/ros2_ws/build/launch_testing_examples/build --no-deps symlink_data
+[3.724s] running develop
+[3.724s] /usr/lib/python3/dist-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[3.724s] !!
+[3.724s] 
+[3.724s]         ********************************************************************************
+[3.725s]         Please avoid running ``setup.py`` and ``easy_install``.
+[3.725s]         Instead, use pypa/build, pypa/installer or other
+[3.725s]         standards-based tools.
+[3.725s] 
+[3.725s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[3.725s]         ********************************************************************************
+[3.726s] 
+[3.726s] !!
+[3.726s]   easy_install.initialize_options(self)
+[4.194s] running egg_info
+[4.194s] creating launch_testing_examples.egg-info
+[4.239s] writing launch_testing_examples.egg-info/PKG-INFO
+[4.239s] writing dependency_links to launch_testing_examples.egg-info/dependency_links.txt
+[4.240s] writing requirements to launch_testing_examples.egg-info/requires.txt
+[4.240s] writing top-level names to launch_testing_examples.egg-info/top_level.txt
+[4.240s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[4.333s] reading manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[4.334s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[4.387s] running build_ext
+[4.387s] Creating /home/jagadeesh97/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages/launch-testing-examples.egg-link (link to .)
+[4.389s] 
+[4.389s] Installed /home/jagadeesh97/ros2_ws/build/launch_testing_examples
+[4.389s] running symlink_data
+[4.389s] creating /home/jagadeesh97/ros2_ws/install/launch_testing_examples/share/ament_index
+[4.390s] creating /home/jagadeesh97/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index
+[4.390s] creating /home/jagadeesh97/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[4.390s] symbolically linking /home/jagadeesh97/ros2_ws/build/launch_testing_examples/resource/launch_testing_examples -> /home/jagadeesh97/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[4.390s] symbolically linking /home/jagadeesh97/ros2_ws/build/launch_testing_examples/package.xml -> /home/jagadeesh97/ros2_ws/install/launch_testing_examples/share/launch_testing_examples
+[4.521s] Invoked command in '/home/jagadeesh97/ros2_ws/build/launch_testing_examples' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jagadeesh97/ros2_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagadeesh97/ros2_ws/install/launch_testing_examples/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/jagadeesh97/ros2_ws/build/launch_testing_examples/build --no-deps symlink_data

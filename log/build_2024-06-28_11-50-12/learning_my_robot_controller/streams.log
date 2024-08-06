@@ -1,0 +1,32 @@
+[1.741s] Invoking command in '/home/jagadeesh97/ros2_ws/build/learning_my_robot_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jagadeesh97/ros2_ws/build/learning_my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagadeesh97/ros2_ws/install/learning_my_robot_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/jagadeesh97/ros2_ws/build/learning_my_robot_controller/build --no-deps symlink_data --force
+[1.982s] running develop
+[1.983s] /usr/lib/python3/dist-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[1.983s] !!
+[1.983s] 
+[1.983s]         ********************************************************************************
+[1.983s]         Please avoid running ``setup.py`` and ``easy_install``.
+[1.983s]         Instead, use pypa/build, pypa/installer or other
+[1.983s]         standards-based tools.
+[1.983s] 
+[1.983s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[1.983s]         ********************************************************************************
+[1.984s] 
+[1.984s] !!
+[1.984s]   easy_install.initialize_options(self)
+[2.120s] running egg_info
+[2.132s] writing learning_my_robot_controller.egg-info/PKG-INFO
+[2.132s] writing dependency_links to learning_my_robot_controller.egg-info/dependency_links.txt
+[2.132s] writing entry points to learning_my_robot_controller.egg-info/entry_points.txt
+[2.132s] writing requirements to learning_my_robot_controller.egg-info/requires.txt
+[2.132s] writing top-level names to learning_my_robot_controller.egg-info/top_level.txt
+[2.156s] reading manifest file 'learning_my_robot_controller.egg-info/SOURCES.txt'
+[2.157s] writing manifest file 'learning_my_robot_controller.egg-info/SOURCES.txt'
+[2.169s] running build_ext
+[2.169s] Creating /home/jagadeesh97/ros2_ws/install/learning_my_robot_controller/lib/python3.12/site-packages/learning-my-robot-controller.egg-link (link to .)
+[2.170s] Installing test_node script to /home/jagadeesh97/ros2_ws/install/learning_my_robot_controller/lib/learning_my_robot_controller
+[2.170s] 
+[2.170s] Installed /home/jagadeesh97/ros2_ws/build/learning_my_robot_controller
+[2.170s] running symlink_data
+[2.170s] symbolically linking /home/jagadeesh97/ros2_ws/build/learning_my_robot_controller/resource/learning_my_robot_controller -> /home/jagadeesh97/ros2_ws/install/learning_my_robot_controller/share/ament_index/resource_index/packages
+[2.171s] symbolically linking /home/jagadeesh97/ros2_ws/build/learning_my_robot_controller/package.xml -> /home/jagadeesh97/ros2_ws/install/learning_my_robot_controller/share/learning_my_robot_controller
+[2.201s] Invoked command in '/home/jagadeesh97/ros2_ws/build/learning_my_robot_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jagadeesh97/ros2_ws/build/learning_my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagadeesh97/ros2_ws/install/learning_my_robot_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/jagadeesh97/ros2_ws/build/learning_my_robot_controller/build --no-deps symlink_data --force

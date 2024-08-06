@@ -1,0 +1,17 @@
+[0.425s] Invoking command in '/home/jagadeesh97/ros2_ws/src/examples/rclpy/guard_conditions': AMENT_PREFIX_PATH=/home/jagadeesh97/ros2_ws/install/examples_rclpy_guard_conditions:${AMENT_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTEST_ADDOPTS=--tb=short --junit-xml=/home/jagadeesh97/ros2_ws/build/examples_rclpy_guard_conditions/pytest.xml --junit-prefix=examples_rclpy_guard_conditions -o cache_dir=/home/jagadeesh97/ros2_ws/build/examples_rclpy_guard_conditions/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/jagadeesh97/ros2_ws/build/examples_rclpy_guard_conditions:/home/jagadeesh97/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest
+[0.726s] [1m============================= test session starts ==============================[0m
+[0.727s] platform linux -- Python 3.12.3, pytest-7.4.4, pluggy-1.4.0
+[0.730s] cachedir: /home/jagadeesh97/ros2_ws/build/examples_rclpy_guard_conditions/.pytest_cache
+[0.730s] rootdir: /home/jagadeesh97/ros2_ws/src/examples/rclpy
+[0.731s] configfile: pytest.ini
+[0.731s] plugins: ament-pep257-0.17.0, ament-xmllint-0.17.0, ament-lint-0.17.0, launch-testing-3.4.2, ament-flake8-0.17.0, launch-testing-ros-0.26.5, ament-copyright-0.17.0, colcon-core-0.17.0, cov-4.1.0
+[0.799s] [1mcollecting ... [0m[1m
+[0.799s] collected 3 items                                                              [0m
+[0.799s] 
+[1.196s] test/test_copyright.py [32m.[0m[32m                                                 [ 33%][0m
+[1.563s] test/test_flake8.py [32m.[0m[32m                                                    [ 66%][0m
+[1.609s] test/test_pep257.py [32m.[0m[32m                                                    [100%][0m
+[1.609s] 
+[1.609s] - generated xml file: /home/jagadeesh97/ros2_ws/build/examples_rclpy_guard_conditions/pytest.xml -
+[1.609s] [32m============================== [32m[1m3 passed[0m[32m in 0.88s[0m[32m ===============================[0m
+[1.775s] Invoked command in '/home/jagadeesh97/ros2_ws/src/examples/rclpy/guard_conditions' returned '0': AMENT_PREFIX_PATH=/home/jagadeesh97/ros2_ws/install/examples_rclpy_guard_conditions:${AMENT_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTEST_ADDOPTS=--tb=short --junit-xml=/home/jagadeesh97/ros2_ws/build/examples_rclpy_guard_conditions/pytest.xml --junit-prefix=examples_rclpy_guard_conditions -o cache_dir=/home/jagadeesh97/ros2_ws/build/examples_rclpy_guard_conditions/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/jagadeesh97/ros2_ws/build/examples_rclpy_guard_conditions:/home/jagadeesh97/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest

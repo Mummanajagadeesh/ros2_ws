@@ -1,0 +1,25 @@
+[0.105s] Invoking command in '/home/jagadeesh97/ros2_ws/build/examples_rclcpp_minimal_client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jagadeesh97/ros2_ws/build/examples_rclcpp_minimal_client -- -j16 -l16
+[1.556s] [ 50%] [32mBuilding CXX object CMakeFiles/client_main.dir/main.cpp.o[0m
+[8.400s] [100%] [32m[1mLinking CXX executable client_main[0m
+[8.767s] [100%] Built target client_main
+[8.836s] Invoked command in '/home/jagadeesh97/ros2_ws/build/examples_rclcpp_minimal_client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jagadeesh97/ros2_ws/build/examples_rclcpp_minimal_client -- -j16 -l16
+[8.907s] Invoking command in '/home/jagadeesh97/ros2_ws/build/examples_rclcpp_minimal_client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jagadeesh97/ros2_ws/build/examples_rclcpp_minimal_client
+[10.338s] -- Install configuration: ""
+[10.338s] -- Execute custom install script
+[10.338s] -- Symlinking: /home/jagadeesh97/ros2_ws/install/examples_rclcpp_minimal_client/lib/examples_rclcpp_minimal_client/client_main
+[10.338s] -- Symlinking: /home/jagadeesh97/ros2_ws/install/examples_rclcpp_minimal_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_client
+[10.339s] -- Symlinking: /home/jagadeesh97/ros2_ws/install/examples_rclcpp_minimal_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_client
+[10.339s] -- Symlinking: /home/jagadeesh97/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/ament_prefix_path.sh
+[10.339s] -- Symlinking: /home/jagadeesh97/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/ament_prefix_path.dsv
+[10.339s] -- Symlinking: /home/jagadeesh97/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/path.sh
+[10.339s] -- Symlinking: /home/jagadeesh97/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/path.dsv
+[10.339s] -- Symlinking: /home/jagadeesh97/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.bash
+[10.339s] -- Symlinking: /home/jagadeesh97/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.sh
+[10.339s] -- Symlinking: /home/jagadeesh97/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.zsh
+[10.339s] -- Symlinking: /home/jagadeesh97/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.dsv
+[10.339s] -- Symlinking: /home/jagadeesh97/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/package.dsv
+[10.339s] -- Symlinking: /home/jagadeesh97/ros2_ws/install/examples_rclcpp_minimal_client/share/ament_index/resource_index/packages/examples_rclcpp_minimal_client
+[10.339s] -- Symlinking: /home/jagadeesh97/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/cmake/examples_rclcpp_minimal_clientConfig.cmake
+[10.340s] -- Symlinking: /home/jagadeesh97/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/cmake/examples_rclcpp_minimal_clientConfig-version.cmake
+[10.340s] -- Symlinking: /home/jagadeesh97/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/package.xml
+[10.477s] Invoked command in '/home/jagadeesh97/ros2_ws/build/examples_rclcpp_minimal_client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jagadeesh97/ros2_ws/build/examples_rclcpp_minimal_client

@@ -1,0 +1,33 @@
+running develop
+running egg_info
+creating my_py_pkg.egg-info
+writing my_py_pkg.egg-info/PKG-INFO
+writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+writing requirements to my_py_pkg.egg-info/requires.txt
+writing top-level names to my_py_pkg.egg-info/top_level.txt
+writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jagadeesh97/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my-py-pkg.egg-link (link to .)
+
+Installed /home/jagadeesh97/ros2_ws/build/my_py_pkg
+running symlink_data
+creating /home/jagadeesh97/ros2_ws/install/my_py_pkg/share/ament_index
+creating /home/jagadeesh97/ros2_ws/install/my_py_pkg/share/ament_index/resource_index
+creating /home/jagadeesh97/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/jagadeesh97/ros2_ws/build/my_py_pkg/resource/my_py_pkg -> /home/jagadeesh97/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/jagadeesh97/ros2_ws/build/my_py_pkg/package.xml -> /home/jagadeesh97/ros2_ws/install/my_py_pkg/share/my_py_pkg
+/usr/lib/python3/dist-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+!!
+
+        ********************************************************************************
+        Please avoid running ``setup.py`` and ``easy_install``.
+        Instead, use pypa/build, pypa/installer or other
+        standards-based tools.
+
+        See https://github.com/pypa/setuptools/issues/917 for details.
+        ********************************************************************************
+
+!!
+  easy_install.initialize_options(self)

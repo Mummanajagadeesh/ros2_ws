@@ -1,0 +1,17 @@
+[0.298s] Invoking command in '/home/jagadeesh97/ros2_ws/src/examples/rclpy/topics/minimal_subscriber': AMENT_PREFIX_PATH=/home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_subscriber:${AMENT_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTEST_ADDOPTS=--tb=short --junit-xml=/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_subscriber/pytest.xml --junit-prefix=examples_rclpy_minimal_subscriber -o cache_dir=/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_subscriber/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_subscriber:/home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest
+[4.887s] [1m============================= test session starts ==============================[0m
+[4.887s] platform linux -- Python 3.12.3, pytest-7.4.4, pluggy-1.4.0
+[4.887s] cachedir: /home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_subscriber/.pytest_cache
+[4.888s] rootdir: /home/jagadeesh97/ros2_ws/src/examples/rclpy
+[4.888s] configfile: pytest.ini
+[4.888s] plugins: ament-pep257-0.17.0, ament-xmllint-0.17.0, ament-lint-0.17.0, launch-testing-3.4.2, ament-flake8-0.17.0, launch-testing-ros-0.26.5, ament-copyright-0.17.0, colcon-core-0.17.0, cov-4.1.0
+[4.888s] [1mcollecting ... [0m[1m
+[4.888s] collected 3 items                                                              [0m
+[4.888s] 
+[4.888s] test/test_copyright.py [32m.[0m[32m                                                 [ 33%][0m
+[4.888s] test/test_flake8.py [32m.[0m[32m                                                    [ 66%][0m
+[4.888s] test/test_pep257.py [32m.[0m[32m                                                    [100%][0m
+[4.888s] 
+[4.889s] - generated xml file: /home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_subscriber/pytest.xml -
+[4.889s] [32m============================== [32m[1m3 passed[0m[32m in 0.43s[0m[32m ===============================[0m
+[4.898s] Invoked command in '/home/jagadeesh97/ros2_ws/src/examples/rclpy/topics/minimal_subscriber' returned '0': AMENT_PREFIX_PATH=/home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_subscriber:${AMENT_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTEST_ADDOPTS=--tb=short --junit-xml=/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_subscriber/pytest.xml --junit-prefix=examples_rclpy_minimal_subscriber -o cache_dir=/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_subscriber/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_subscriber:/home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest

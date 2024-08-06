@@ -1,0 +1,37 @@
+[3.837s] Invoking command in '/home/jagadeesh97/ros2_ws/build/examples_rclpy_guard_conditions': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jagadeesh97/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagadeesh97/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/jagadeesh97/ros2_ws/build/examples_rclpy_guard_conditions/build --no-deps symlink_data
+[10.270s] running develop
+[10.271s] running egg_info
+[10.271s] creating examples_rclpy_guard_conditions.egg-info
+[10.271s] writing examples_rclpy_guard_conditions.egg-info/PKG-INFO
+[10.272s] writing dependency_links to examples_rclpy_guard_conditions.egg-info/dependency_links.txt
+[10.272s] writing entry points to examples_rclpy_guard_conditions.egg-info/entry_points.txt
+[10.272s] writing requirements to examples_rclpy_guard_conditions.egg-info/requires.txt
+[10.272s] writing top-level names to examples_rclpy_guard_conditions.egg-info/top_level.txt
+[10.272s] writing manifest file 'examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[10.272s] reading manifest file 'examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[10.272s] writing manifest file 'examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[10.272s] running build_ext
+[10.273s] Creating /home/jagadeesh97/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.12/site-packages/examples-rclpy-guard-conditions.egg-link (link to .)
+[10.273s] Installing trigger_guard_condition script to /home/jagadeesh97/ros2_ws/install/examples_rclpy_guard_conditions/lib/examples_rclpy_guard_conditions
+[10.273s] 
+[10.273s] Installed /home/jagadeesh97/ros2_ws/build/examples_rclpy_guard_conditions
+[10.273s] running symlink_data
+[10.273s] creating /home/jagadeesh97/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index
+[10.273s] creating /home/jagadeesh97/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index/resource_index
+[10.274s] creating /home/jagadeesh97/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index/resource_index/packages
+[10.274s] symbolically linking /home/jagadeesh97/ros2_ws/build/examples_rclpy_guard_conditions/resource/examples_rclpy_guard_conditions -> /home/jagadeesh97/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index/resource_index/packages
+[10.274s] symbolically linking /home/jagadeesh97/ros2_ws/build/examples_rclpy_guard_conditions/package.xml -> /home/jagadeesh97/ros2_ws/install/examples_rclpy_guard_conditions/share/examples_rclpy_guard_conditions
+[10.274s] /usr/lib/python3/dist-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[10.274s] !!
+[10.274s] 
+[10.274s]         ********************************************************************************
+[10.275s]         Please avoid running ``setup.py`` and ``easy_install``.
+[10.275s]         Instead, use pypa/build, pypa/installer or other
+[10.275s]         standards-based tools.
+[10.275s] 
+[10.275s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[10.275s]         ********************************************************************************
+[10.275s] 
+[10.275s] !!
+[10.275s]   easy_install.initialize_options(self)
+[10.392s] Invoked command in '/home/jagadeesh97/ros2_ws/build/examples_rclpy_guard_conditions' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jagadeesh97/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagadeesh97/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/jagadeesh97/ros2_ws/build/examples_rclpy_guard_conditions/build --no-deps symlink_data

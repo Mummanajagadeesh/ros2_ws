@@ -1,0 +1,39 @@
+[3.431s] Invoking command in '/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_publisher': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_publisher/build --no-deps symlink_data
+[4.884s] running develop
+[4.884s] running egg_info
+[4.885s] creating examples_rclpy_minimal_publisher.egg-info
+[4.885s] writing examples_rclpy_minimal_publisher.egg-info/PKG-INFO
+[4.885s] writing dependency_links to examples_rclpy_minimal_publisher.egg-info/dependency_links.txt
+[4.886s] writing entry points to examples_rclpy_minimal_publisher.egg-info/entry_points.txt
+[4.886s] writing requirements to examples_rclpy_minimal_publisher.egg-info/requires.txt
+[4.886s] writing top-level names to examples_rclpy_minimal_publisher.egg-info/top_level.txt
+[4.886s] writing manifest file 'examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[4.886s] reading manifest file 'examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[4.886s] writing manifest file 'examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[4.886s] running build_ext
+[4.887s] Creating /home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.12/site-packages/examples-rclpy-minimal-publisher.egg-link (link to .)
+[4.887s] Installing publisher_local_function script to /home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[4.887s] Installing publisher_member_function script to /home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[4.888s] Installing publisher_old_school script to /home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[4.889s] 
+[4.889s] Installed /home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_publisher
+[4.889s] running symlink_data
+[4.889s] creating /home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_publisher/share/ament_index
+[4.889s] creating /home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_publisher/share/ament_index/resource_index
+[4.889s] creating /home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_publisher/share/ament_index/resource_index/packages
+[4.890s] symbolically linking /home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_publisher/resource/examples_rclpy_minimal_publisher -> /home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_publisher/share/ament_index/resource_index/packages
+[4.890s] symbolically linking /home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_publisher/package.xml -> /home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_publisher/share/examples_rclpy_minimal_publisher
+[4.890s] /usr/lib/python3/dist-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[4.890s] !!
+[4.890s] 
+[4.890s]         ********************************************************************************
+[4.891s]         Please avoid running ``setup.py`` and ``easy_install``.
+[4.891s]         Instead, use pypa/build, pypa/installer or other
+[4.891s]         standards-based tools.
+[4.891s] 
+[4.891s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[4.892s]         ********************************************************************************
+[4.892s] 
+[4.892s] !!
+[4.892s]   easy_install.initialize_options(self)
+[4.901s] Invoked command in '/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_publisher' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_publisher/build --no-deps symlink_data

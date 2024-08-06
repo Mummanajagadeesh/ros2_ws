@@ -1,0 +1,17 @@
+[0.604s] Invoking command in '/home/jagadeesh97/ros2_ws/src/examples/rclpy/actions/minimal_action_client': AMENT_PREFIX_PATH=/home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_action_client:${AMENT_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTEST_ADDOPTS=--tb=short --junit-xml=/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_action_client/pytest.xml --junit-prefix=examples_rclpy_minimal_action_client -o cache_dir=/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_action_client/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_action_client:/home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest
+[1.029s] [1m============================= test session starts ==============================[0m
+[1.033s] platform linux -- Python 3.12.3, pytest-7.4.4, pluggy-1.4.0
+[1.039s] cachedir: /home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_action_client/.pytest_cache
+[1.039s] rootdir: /home/jagadeesh97/ros2_ws/src/examples/rclpy
+[1.040s] configfile: pytest.ini
+[1.040s] plugins: ament-pep257-0.17.0, ament-xmllint-0.17.0, ament-lint-0.17.0, launch-testing-3.4.2, ament-flake8-0.17.0, launch-testing-ros-0.26.5, ament-copyright-0.17.0, colcon-core-0.17.0, cov-4.1.0
+[1.192s] [1mcollecting ... [0m[1m
+[1.193s] collected 3 items                                                              [0m
+[1.197s] 
+[1.859s] test/test_copyright.py [32m.[0m[32m                                                 [ 33%][0m
+[2.180s] test/test_flake8.py [32m.[0m[32m                                                    [ 66%][0m
+[2.241s] test/test_pep257.py [32m.[0m[32m                                                    [100%][0m
+[2.241s] 
+[2.242s] - generated xml file: /home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_action_client/pytest.xml -
+[2.243s] [32m============================== [32m[1m3 passed[0m[32m in 1.21s[0m[32m ===============================[0m
+[2.840s] Invoked command in '/home/jagadeesh97/ros2_ws/src/examples/rclpy/actions/minimal_action_client' returned '0': AMENT_PREFIX_PATH=/home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_action_client:${AMENT_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTEST_ADDOPTS=--tb=short --junit-xml=/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_action_client/pytest.xml --junit-prefix=examples_rclpy_minimal_action_client -o cache_dir=/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_action_client/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/jagadeesh97/ros2_ws/build/examples_rclpy_minimal_action_client:/home/jagadeesh97/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest
