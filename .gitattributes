@@ -3,4 +3,6 @@ Makefile linguist-vendored
 *.cpp.o.d linguist-vendored
 *.cmake linguist-vendored
 *.sh linguist-vendored
+*.zsh linguist-vendored
+*.bash linguist-vendored
 *.md linguist-documentation
