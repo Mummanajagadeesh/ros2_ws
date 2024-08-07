@@ -2,4 +2,5 @@ Makefile linguist-vendored
 *.yaml linguist-vendored
 *.json linguist-vendored
 *.make linguist-vendored
+*.cpp.o.d linguist-vendored
 *.md linguist-documentation
