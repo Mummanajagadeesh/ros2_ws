@@ -1,1 +1,4 @@
 Makefile linguist-vendored
+*.yaml linguist-vendored
+*.json linguist-vendored
+*.md linguist-documentation
